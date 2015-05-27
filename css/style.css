@@ -1,0 +1,35 @@
+body{
+    background-color: #DAFBFB;
+}
+.header h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 40px;
+}
+
+.container {
+    max-width: 730px;
+}
+
+.header {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.header, .marketing, .footer {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: #7FE2E2;
+}
+
+.jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 21px;
+}
